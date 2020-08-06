@@ -1,0 +1,26 @@
+{
+  "name": "exercisetrackerapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariuskhayyam/exerciseTrackerAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariuskhayyam/exerciseTrackerAPI/issues"
+  },
+  "homepage": "https://github.com/dariuskhayyam/exerciseTrackerAPI#readme",
+  "dependencies":{
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
